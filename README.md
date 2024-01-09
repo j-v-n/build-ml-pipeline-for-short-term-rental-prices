@@ -6,6 +6,13 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+# Accessing Submission
+
+- The link to the WANDB project : https://wandb.ai/jayanthnair/nyc_airbnb
+- The link to the github repo: https://github.com/j-v-n/build-ml-pipeline-for-short-term-rental-prices
+
+NOTE: The environment creation steps for certain components caused some troubles locally, so I have not used the original remote component for train_val_test_split and instead used the component in this repo
+
 ## Table of contents
 
 - [Introduction](#build-an-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC)
